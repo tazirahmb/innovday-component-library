@@ -1,6 +1,7 @@
 import React from 'react';
 import Button from '../Button';
 import Text from '../Text';
+import PropTypes from 'prop-types';
 
 const groupStyle = {
   display: 'flex',

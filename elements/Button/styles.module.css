@@ -1,0 +1,12 @@
+.button-elem {
+  background-color: blue;
+  color: white;
+  border: none;
+  padding: 1.6rem 0.8rem;
+  min-width: 10rem;
+  border-radius: 0.4rem;
+}
+
+.button-elem:disabled {
+  opacity: 0.4
+}

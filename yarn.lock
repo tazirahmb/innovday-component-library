@@ -5,6 +5,307 @@ __metadata:
   version: 6
   cacheKey: 8
 
+"@babel/runtime@npm:7.12.18":
+  version: 7.12.18
+  resolution: "@babel/runtime@npm:7.12.18::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40babel%2Fruntime%2F-%2Fruntime-7.12.18.tgz"
+  dependencies:
+    regenerator-runtime: ^0.13.4
+  checksum: 0ba38dc8d478584b0b5fb15fc2b7855f9f20561917bd434a66429d55d1165199d6161bc5fb087b87254712827f63561ff5196df66701e5647d67c7d0f557569a
+  languageName: node
+  linkType: hard
+
+"@jest/types@npm:^26.6.2":
+  version: 26.6.2
+  resolution: "@jest/types@npm:26.6.2::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40jest%2Ftypes%2F-%2Ftypes-26.6.2.tgz"
+  dependencies:
+    "@types/istanbul-lib-coverage": ^2.0.0
+    "@types/istanbul-reports": ^3.0.0
+    "@types/node": "*"
+    "@types/yargs": ^15.0.0
+    chalk: ^4.0.0
+  checksum: a0bd3d2f22f26ddb23f41fddf6e6a30bf4fab2ce79ec1cb6ce6fdfaf90a72e00f4c71da91ec61e13db3b10c41de22cf49d07c57ff2b59171d64b29f909c1d8d6
+  languageName: node
+  linkType: hard
+
+"@types/istanbul-lib-coverage@npm:*, @types/istanbul-lib-coverage@npm:^2.0.0":
+  version: 2.0.4
+  resolution: "@types/istanbul-lib-coverage@npm:2.0.4::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40types%2Fistanbul-lib-coverage%2F-%2Fistanbul-lib-coverage-2.0.4.tgz"
+  checksum: a25d7589ee65c94d31464c16b72a9dc81dfa0bea9d3e105ae03882d616e2a0712a9c101a599ec482d297c3591e16336962878cb3eb1a0a62d5b76d277a890ce7
+  languageName: node
+  linkType: hard
+
+"@types/istanbul-lib-report@npm:*":
+  version: 3.0.0
+  resolution: "@types/istanbul-lib-report@npm:3.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40types%2Fistanbul-lib-report%2F-%2Fistanbul-lib-report-3.0.0.tgz"
+  dependencies:
+    "@types/istanbul-lib-coverage": "*"
+  checksum: 656398b62dc288e1b5226f8880af98087233cdb90100655c989a09f3052b5775bf98ba58a16c5ae642fb66c61aba402e07a9f2bff1d1569e3b306026c59f3f36
+  languageName: node
+  linkType: hard
+
+"@types/istanbul-reports@npm:^3.0.0":
+  version: 3.0.1
+  resolution: "@types/istanbul-reports@npm:3.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40types%2Fistanbul-reports%2F-%2Fistanbul-reports-3.0.1.tgz"
+  dependencies:
+    "@types/istanbul-lib-report": "*"
+  checksum: f1ad54bc68f37f60b30c7915886b92f86b847033e597f9b34f2415acdbe5ed742fa559a0a40050d74cdba3b6a63c342cac1f3a64dba5b68b66a6941f4abd7903
+  languageName: node
+  linkType: hard
+
+"@types/jest@npm:*":
+  version: 28.1.1
+  resolution: "@types/jest@npm:28.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40types%2Fjest%2F-%2Fjest-28.1.1.tgz"
+  dependencies:
+    jest-matcher-utils: ^27.0.0
+    pretty-format: ^27.0.0
+  checksum: 0a8b045a7b660372decc807c390d3f99a2b12bb1659a1cd593afe04557f4b7c235b0576a5e35b1577710d20e42759d3d8755eb8bed6edc8733f47007e75a5509
+  languageName: node
+  linkType: hard
+
+"@types/jest@npm:>=26.0.0 <27.0.0":
+  version: 26.0.24
+  resolution: "@types/jest@npm:26.0.24::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40types%2Fjest%2F-%2Fjest-26.0.24.tgz"
+  dependencies:
+    jest-diff: ^26.0.0
+    pretty-format: ^26.0.0
+  checksum: ae39675412f08d884926254e9b12bfd2b5a4e4d204c94d3148cb942174a474930d0c60540133c968f22241d4712b7940c96cbc883096eb326a4d5b206fb78bd0
+  languageName: node
+  linkType: hard
+
+"@types/node@npm:*":
+  version: 17.0.42
+  resolution: "@types/node@npm:17.0.42::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40types%2Fnode%2F-%2Fnode-17.0.42.tgz"
+  checksum: a200cd87e4f12d4d5682a893ad6e1140720c6c074a2cd075f254b3b8306d6174f5a3630e5d2347efb5e9b80d420404b5fafc8fe3c7d4c81998cd914c50b19f75
+  languageName: node
+  linkType: hard
+
+"@types/node@npm:12.20.4":
+  version: 12.20.4
+  resolution: "@types/node@npm:12.20.4::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40types%2Fnode%2F-%2Fnode-12.20.4.tgz"
+  checksum: 30f1f5d8159fcb968206706f0f943167731f3d0763602571af29676b1afdcfe3b41524442cacdee3853a456dcd11d0e3ab2bf28b6821dfa2749a4b393fe7b510
+  languageName: node
+  linkType: hard
+
+"@types/prop-types@npm:*":
+  version: 15.7.5
+  resolution: "@types/prop-types@npm:15.7.5::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40types%2Fprop-types%2F-%2Fprop-types-15.7.5.tgz"
+  checksum: 5b43b8b15415e1f298243165f1d44390403bb2bd42e662bca3b5b5633fdd39c938e91b7fce3a9483699db0f7a715d08cef220c121f723a634972fdf596aec980
+  languageName: node
+  linkType: hard
+
+"@types/react-dom@npm:>=17.0.5 <18.0.0":
+  version: 17.0.17
+  resolution: "@types/react-dom@npm:17.0.17::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40types%2Freact-dom%2F-%2Freact-dom-17.0.17.tgz"
+  dependencies:
+    "@types/react": ^17
+  checksum: 23caf98aa03e968811560f92a2c8f451694253ebe16b670929b24eaf0e7fa62ba549abe9db0ac028a9d8a9086acd6ab9c6c773f163fa21224845edbc00ba6232
+  languageName: node
+  linkType: hard
+
+"@types/react@npm:>=17.0.8 <18.0.0, @types/react@npm:^17":
+  version: 17.0.45
+  resolution: "@types/react@npm:17.0.45::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40types%2Freact%2F-%2Freact-17.0.45.tgz"
+  dependencies:
+    "@types/prop-types": "*"
+    "@types/scheduler": "*"
+    csstype: ^3.0.2
+  checksum: 3cc13a02824c13f6fa4807a83abd065ac1d9943359e76bd995cc7cd2b4148c1176ebd54a30a9f4eb8a0f141ff359d712876f256c4fee707e4290607ef8410b3e
+  languageName: node
+  linkType: hard
+
+"@types/scheduler@npm:*":
+  version: 0.16.2
+  resolution: "@types/scheduler@npm:0.16.2::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40types%2Fscheduler%2F-%2Fscheduler-0.16.2.tgz"
+  checksum: b6b4dcfeae6deba2e06a70941860fb1435730576d3689225a421280b7742318d1548b3d22c1f66ab68e414f346a9542f29240bc955b6332c5b11e561077583bc
+  languageName: node
+  linkType: hard
+
+"@types/testing-library__jest-dom@npm:5.9.5":
+  version: 5.9.5
+  resolution: "@types/testing-library__jest-dom@npm:5.9.5::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40types%2Ftesting-library__jest-dom%2F-%2Ftesting-library__jest-dom-5.9.5.tgz"
+  dependencies:
+    "@types/jest": "*"
+  checksum: f2ed81103acb52d54f992d826e3854551294618628997dc01f8955efd8c1d476d64715b79187371b09ec3e61e44cc10a7ffe1e427d1bda798552f83d18309056
+  languageName: node
+  linkType: hard
+
+"@types/yargs-parser@npm:*":
+  version: 21.0.0
+  resolution: "@types/yargs-parser@npm:21.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40types%2Fyargs-parser%2F-%2Fyargs-parser-21.0.0.tgz"
+  checksum: b2f4c8d12ac18a567440379909127cf2cec393daffb73f246d0a25df36ea983b93b7e9e824251f959e9f928cbc7c1aab6728d0a0ff15d6145f66cec2be67d9a2
+  languageName: node
+  linkType: hard
+
+"@types/yargs@npm:^15.0.0":
+  version: 15.0.14
+  resolution: "@types/yargs@npm:15.0.14::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2F%40types%2Fyargs%2F-%2Fyargs-15.0.14.tgz"
+  dependencies:
+    "@types/yargs-parser": "*"
+  checksum: 8e358aeb8f0c3758e59e2b8fcfdee5627ab2fe3d92f50f380503d966c7f33287be3322155516a50d27727fde1ad3878f48f60cd6648439126d4b0bbb1a1153ed
+  languageName: node
+  linkType: hard
+
+"Button-20840d@workspace:elements/Button":
+  version: 0.0.0-use.local
+  resolution: "Button-20840d@workspace:elements/Button"
+  peerDependencies:
+    react: ^16.8.0 || ^17.0.0
+    react-dom: ^16.8.0 || ^17.0.0
+  languageName: unknown
+  linkType: soft
+
+"Text-c5170e@workspace:elements/Text":
+  version: 0.0.0-use.local
+  resolution: "Text-c5170e@workspace:elements/Text"
+  peerDependencies:
+    react: ^16.8.0 || ^17.0.0
+    react-dom: ^16.8.0 || ^17.0.0
+  languageName: unknown
+  linkType: soft
+
+"TextWithButton-6d9bb6@workspace:elements/TextWithButton":
+  version: 0.0.0-use.local
+  resolution: "TextWithButton-6d9bb6@workspace:elements/TextWithButton"
+  peerDependencies:
+    react: ^16.8.0 || ^17.0.0
+    react-dom: ^16.8.0 || ^17.0.0
+  languageName: unknown
+  linkType: soft
+
+"ansi-regex@npm:^5.0.0, ansi-regex@npm:^5.0.1":
+  version: 5.0.1
+  resolution: "ansi-regex@npm:5.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Fansi-regex%2F-%2Fansi-regex-5.0.1.tgz"
+  checksum: 2aa4bb54caf2d622f1afdad09441695af2a83aa3fe8b8afa581d205e57ed4261c183c4d3877cee25794443fde5876417d859c108078ab788d6af7e4fe52eb66b
+  languageName: node
+  linkType: hard
+
+"ansi-styles@npm:^4.0.0, ansi-styles@npm:^4.1.0":
+  version: 4.3.0
+  resolution: "ansi-styles@npm:4.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Fansi-styles%2F-%2Fansi-styles-4.3.0.tgz"
+  dependencies:
+    color-convert: ^2.0.1
+  checksum: 513b44c3b2105dd14cc42a19271e80f386466c4be574bccf60b627432f9198571ebf4ab1e4c3ba17347658f4ee1711c163d574248c0c1cdc2d5917a0ad582ec4
+  languageName: node
+  linkType: hard
+
+"ansi-styles@npm:^5.0.0":
+  version: 5.2.0
+  resolution: "ansi-styles@npm:5.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Fansi-styles%2F-%2Fansi-styles-5.2.0.tgz"
+  checksum: d7f4e97ce0623aea6bc0d90dcd28881ee04cba06c570b97fd3391bd7a268eedfd9d5e2dd4fdcbdd82b8105df5faf6f24aaedc08eaf3da898e702db5948f63469
+  languageName: node
+  linkType: hard
+
+"chalk@npm:^4.0.0":
+  version: 4.1.2
+  resolution: "chalk@npm:4.1.2::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Fchalk%2F-%2Fchalk-4.1.2.tgz"
+  dependencies:
+    ansi-styles: ^4.1.0
+    supports-color: ^7.1.0
+  checksum: fe75c9d5c76a7a98d45495b91b2172fa3b7a09e0cc9370e5c8feb1c567b85c4288e2b3fded7cfdd7359ac28d6b3844feb8b82b8686842e93d23c827c417e83fc
+  languageName: node
+  linkType: hard
+
+"color-convert@npm:^2.0.1":
+  version: 2.0.1
+  resolution: "color-convert@npm:2.0.1::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Fcolor-convert%2F-%2Fcolor-convert-2.0.1.tgz"
+  dependencies:
+    color-name: ~1.1.4
+  checksum: 79e6bdb9fd479a205c71d89574fccfb22bd9053bd98c6c4d870d65c132e5e904e6034978e55b43d69fcaa7433af2016ee203ce76eeba9cfa554b373e7f7db336
+  languageName: node
+  linkType: hard
+
+"color-name@npm:~1.1.4":
+  version: 1.1.4
+  resolution: "color-name@npm:1.1.4::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Fcolor-name%2F-%2Fcolor-name-1.1.4.tgz"
+  checksum: b0445859521eb4021cd0fb0cc1a75cecf67fceecae89b63f62b201cca8d345baf8b952c966862a9d9a2632987d4f6581f0ec8d957dfacece86f0a7919316f610
+  languageName: node
+  linkType: hard
+
+"core-js@npm:>=3.0.0 <4.0.0":
+  version: 3.23.0
+  resolution: "core-js@npm:3.23.0::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Fcore-js%2F-%2Fcore-js-3.23.0.tgz"
+  checksum: 4fcfec8133bd31ae34482bcdf891d8dcff4a64de656b82749c56d984b227cc107f755104aefb884b284f78d3e59fad24592de039ff7f78e60316cd4ade734af4
+  languageName: node
+  linkType: hard
+
+"csstype@npm:^3.0.2":
+  version: 3.1.0
+  resolution: "csstype@npm:3.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Fcsstype%2F-%2Fcsstype-3.1.0.tgz"
+  checksum: 644e986cefab86525f0b674a06889cfdbb1f117e5b7d1ce0fc55b0423ecc58807a1ea42ecc75c4f18999d14fc42d1d255f84662a45003a52bb5840e977eb2ffd
+  languageName: node
+  linkType: hard
+
+"diff-sequences@npm:^26.6.2":
+  version: 26.6.2
+  resolution: "diff-sequences@npm:26.6.2::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Fdiff-sequences%2F-%2Fdiff-sequences-26.6.2.tgz"
+  checksum: 79af871776ef149a7ff3345d6b1bf37fe6e81f68632aa5542787851f6f60fba19b0be22fdd1e06046f56ae7382763ccfe94a982c39ee72bd107aef435ecbc0cf
+  languageName: node
+  linkType: hard
+
+"diff-sequences@npm:^27.5.1":
+  version: 27.5.1
+  resolution: "diff-sequences@npm:27.5.1::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Fdiff-sequences%2F-%2Fdiff-sequences-27.5.1.tgz"
+  checksum: a00db5554c9da7da225db2d2638d85f8e41124eccbd56cbaefb3b276dcbb1c1c2ad851c32defe2055a54a4806f030656cbf6638105fd6ce97bb87b90b32a33ca
+  languageName: node
+  linkType: hard
+
+"has-flag@npm:^4.0.0":
+  version: 4.0.0
+  resolution: "has-flag@npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Fhas-flag%2F-%2Fhas-flag-4.0.0.tgz"
+  checksum: 261a1357037ead75e338156b1f9452c016a37dcd3283a972a30d9e4a87441ba372c8b81f818cd0fbcd9c0354b4ae7e18b9e1afa1971164aef6d18c2b6095a8ad
+  languageName: node
+  linkType: hard
+
+"jest-diff@npm:^26.0.0":
+  version: 26.6.2
+  resolution: "jest-diff@npm:26.6.2::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Fjest-diff%2F-%2Fjest-diff-26.6.2.tgz"
+  dependencies:
+    chalk: ^4.0.0
+    diff-sequences: ^26.6.2
+    jest-get-type: ^26.3.0
+    pretty-format: ^26.6.2
+  checksum: d00d297f31e1ac0252127089892432caa7a11c69bde29cf3bb6c7a839c8afdb95cf1fd401f9df16a4422745da2e6a5d94b428b30666a2540c38e1c5699915c2d
+  languageName: node
+  linkType: hard
+
+"jest-diff@npm:^27.5.1":
+  version: 27.5.1
+  resolution: "jest-diff@npm:27.5.1::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Fjest-diff%2F-%2Fjest-diff-27.5.1.tgz"
+  dependencies:
+    chalk: ^4.0.0
+    diff-sequences: ^27.5.1
+    jest-get-type: ^27.5.1
+    pretty-format: ^27.5.1
+  checksum: 8be27c1e1ee57b2bb2bef9c0b233c19621b4c43d53a3c26e2c00a4e805eb4ea11fe1694a06a9fb0e80ffdcfdc0d2b1cb0b85920b3f5c892327ecd1e7bd96b865
+  languageName: node
+  linkType: hard
+
+"jest-get-type@npm:^26.3.0":
+  version: 26.3.0
+  resolution: "jest-get-type@npm:26.3.0::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Fjest-get-type%2F-%2Fjest-get-type-26.3.0.tgz"
+  checksum: 1cc6465ae4f5e880be22ba52fd270fa64c21994915f81b41f8f7553a7957dd8e077cc8d03035de9412e2d739f8bad6a032ebb5dab5805692a5fb9e20dd4ea666
+  languageName: node
+  linkType: hard
+
+"jest-get-type@npm:^27.5.1":
+  version: 27.5.1
+  resolution: "jest-get-type@npm:27.5.1::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Fjest-get-type%2F-%2Fjest-get-type-27.5.1.tgz"
+  checksum: 63064ab70195c21007d897c1157bf88ff94a790824a10f8c890392e7d17eda9c3900513cb291ca1c8d5722cad79169764e9a1279f7c8a9c4cd6e9109ff04bbc0
+  languageName: node
+  linkType: hard
+
+"jest-matcher-utils@npm:^27.0.0":
+  version: 27.5.1
+  resolution: "jest-matcher-utils@npm:27.5.1::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Fjest-matcher-utils%2F-%2Fjest-matcher-utils-27.5.1.tgz"
+  dependencies:
+    chalk: ^4.0.0
+    jest-diff: ^27.5.1
+    jest-get-type: ^27.5.1
+    pretty-format: ^27.5.1
+  checksum: bb2135fc48889ff3fe73888f6cc7168ddab9de28b51b3148f820c89fdfd2effdcad005f18be67d0b9be80eda208ad47290f62f03d0a33f848db2dd0273c8217a
+  languageName: node
+  linkType: hard
+
 "js-tokens@npm:^3.0.0 || ^4.0.0":
   version: 4.0.0
   resolution: "js-tokens@npm:4.0.0::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Fjs-tokens%2F-%2Fjs-tokens-4.0.0.tgz"
@@ -12,7 +313,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"loose-envify@npm:^1.1.0":
+"loose-envify@npm:^1.1.0, loose-envify@npm:^1.4.0":
   version: 1.4.0
   resolution: "loose-envify@npm:1.4.0::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Floose-envify%2F-%2Floose-envify-1.4.0.tgz"
   dependencies:
@@ -20,6 +321,47 @@ __metadata:
   bin:
     loose-envify: cli.js
   checksum: 6517e24e0cad87ec9888f500c5b5947032cdfe6ef65e1c1936a0c48a524b81e65542c9c3edc91c97d5bddc806ee2a985dbc79be89215d613b1de5db6d1cfe6f4
+  languageName: node
+  linkType: hard
+
+"object-assign@npm:^4.1.1":
+  version: 4.1.1
+  resolution: "object-assign@npm:4.1.1::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Fobject-assign%2F-%2Fobject-assign-4.1.1.tgz"
+  checksum: fcc6e4ea8c7fe48abfbb552578b1c53e0d194086e2e6bbbf59e0a536381a292f39943c6e9628af05b5528aa5e3318bb30d6b2e53cadaf5b8fe9e12c4b69af23f
+  languageName: node
+  linkType: hard
+
+"pretty-format@npm:^26.0.0, pretty-format@npm:^26.6.2":
+  version: 26.6.2
+  resolution: "pretty-format@npm:26.6.2::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Fpretty-format%2F-%2Fpretty-format-26.6.2.tgz"
+  dependencies:
+    "@jest/types": ^26.6.2
+    ansi-regex: ^5.0.0
+    ansi-styles: ^4.0.0
+    react-is: ^17.0.1
+  checksum: e3b808404d7e1519f0df1aa1f25cee0054ab475775c6b2b8c5568ff23194a92d54bf93274139b6f584ca70fd773be4eaa754b0e03f12bb0a8d1426b07f079976
+  languageName: node
+  linkType: hard
+
+"pretty-format@npm:^27.0.0, pretty-format@npm:^27.5.1":
+  version: 27.5.1
+  resolution: "pretty-format@npm:27.5.1::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Fpretty-format%2F-%2Fpretty-format-27.5.1.tgz"
+  dependencies:
+    ansi-regex: ^5.0.1
+    ansi-styles: ^5.0.0
+    react-is: ^17.0.1
+  checksum: cf610cffcb793885d16f184a62162f2dd0df31642d9a18edf4ca298e909a8fe80bdbf556d5c9573992c102ce8bf948691da91bf9739bee0ffb6e79c8a8a6e088
+  languageName: node
+  linkType: hard
+
+"prop-types@npm:15.8.1":
+  version: 15.8.1
+  resolution: "prop-types@npm:15.8.1::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Fprop-types%2F-%2Fprop-types-15.8.1.tgz"
+  dependencies:
+    loose-envify: ^1.4.0
+    object-assign: ^4.1.1
+    react-is: ^16.13.1
+  checksum: c056d3f1c057cb7ff8344c645450e14f088a915d078dcda795041765047fa080d38e5d626560ccaac94a4e16e3aa15f3557c1a9a8d1174530955e992c675e459
   languageName: node
   linkType: hard
 
@@ -35,6 +377,20 @@ __metadata:
   languageName: node
   linkType: hard
 
+"react-is@npm:^16.13.1":
+  version: 16.13.1
+  resolution: "react-is@npm:16.13.1::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Freact-is%2F-%2Freact-is-16.13.1.tgz"
+  checksum: f7a19ac3496de32ca9ae12aa030f00f14a3d45374f1ceca0af707c831b2a6098ef0d6bdae51bd437b0a306d7f01d4677fcc8de7c0d331eb47ad0f46130e53c5f
+  languageName: node
+  linkType: hard
+
+"react-is@npm:^17.0.1":
+  version: 17.0.2
+  resolution: "react-is@npm:17.0.2::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Freact-is%2F-%2Freact-is-17.0.2.tgz"
+  checksum: 9d6d111d8990dc98bc5402c1266a808b0459b5d54830bbea24c12d908b536df7883f268a7868cfaedde3dd9d4e0d574db456f84d2e6df9c4526f99bb4b5344d8
+  languageName: node
+  linkType: hard
+
 "react@npm:18.1.0":
   version: 18.1.0
   resolution: "react@npm:18.1.0::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Freact%2F-%2Freact-18.1.0.tgz"
@@ -44,10 +400,25 @@ __metadata:
   languageName: node
   linkType: hard
 
+"regenerator-runtime@npm:^0.13.4":
+  version: 0.13.9
+  resolution: "regenerator-runtime@npm:0.13.9::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Fregenerator-runtime%2F-%2Fregenerator-runtime-0.13.9.tgz"
+  checksum: 65ed455fe5afd799e2897baf691ca21c2772e1a969d19bb0c4695757c2d96249eb74ee3553ea34a91062b2a676beedf630b4c1551cc6299afb937be1426ec55e
+  languageName: node
+  linkType: hard
+
 "root-workspace-0b6124@workspace:.":
   version: 0.0.0-use.local
   resolution: "root-workspace-0b6124@workspace:."
   dependencies:
+    "@babel/runtime": 7.12.18
+    "@types/jest": ">=26.0.0 <27.0.0"
+    "@types/node": 12.20.4
+    "@types/react": ">=17.0.8 <18.0.0"
+    "@types/react-dom": ">=17.0.5 <18.0.0"
+    "@types/testing-library__jest-dom": 5.9.5
+    core-js: ">=3.0.0 <4.0.0"
+    prop-types: 15.8.1
     react: 18.1.0
     react-dom: 18.1.0
   peerDependencies:
@@ -62,5 +433,14 @@ __metadata:
   dependencies:
     loose-envify: ^1.1.0
   checksum: a8ef5cab769c020cd6382ad9ecc3f72dbde56a50a36639b3a42ad9c11f7724f03700bcad373044059b8067d4a6365154dc7c0ca8027ef20ff4900cf58a0fc2c5
+  languageName: node
+  linkType: hard
+
+"supports-color@npm:^7.1.0":
+  version: 7.2.0
+  resolution: "supports-color@npm:7.2.0::__archiveUrl=https%3A%2F%2Fregistry.npmjs.org%2Fsupports-color%2F-%2Fsupports-color-7.2.0.tgz"
+  dependencies:
+    has-flag: ^4.0.0
+  checksum: 3dda818de06ebbe5b9653e07842d9479f3555ebc77e9a0280caf5a14fb877ffee9ed57007c3b78f5a6324b8dbeec648d9e97a24e2ed9fdb81ddc69ea07100f4a
   languageName: node
   linkType: hard
