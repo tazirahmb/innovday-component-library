@@ -60,7 +60,7 @@
       /**
        * uncomment to apply the chosen environment on all components.
        **/
-      "teambit.react/react": {}
+      // "teambit.react/react": {}
     }
   }
 }
